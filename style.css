@@ -1,0 +1,41 @@
+.container{
+    max-width: 300px;
+    margin: auto;
+    background-color:red;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+}
+
+.p{
+    color: white;
+}
+
+
+input{
+    display: block;
+   width: 100%;
+   padding: 5px;
+   box-sizing: border-box;
+   margin-bottom: 10px;
+}
+
+#titulo{
+    Text-shadow: 2px 2px 5px rgb(255, 255, 255) ;     
+    text-align: center;
+    margin: auto;
+    color:rgb(219, 8, 8);
+    font-size: 150px;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Bangers', cursive;
+    font-family: 'Birthstone', cursive;
+}
+
+body{
+    background-image: url(./imagem/churrasco.jpeg);
+     background-repeat:no-repeat;
+     background-size: cover;
+     
+}
